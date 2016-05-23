@@ -506,8 +506,8 @@
         "twitter": "Codingfree",
         "linkedin": "madridcrespo",
         "website": "http://www.codingfree.com",
-        "image": "https://pbs.twimg.com/profile_images/612621436914659329/no1MfT1e_400x400.jpg",
-        "thumbnail": "https://pbs.twimg.com/profile_images/612621436914659329/no1MfT1e_bigger.jpg",
+        "image": "https://avatars1.githubusercontent.com/u/10507381?v=3&s=460",
+        "thumbnail": "http://www.makeathumbnail.com/thumbnails/image494264.jpg",
         "location": {
             "lon": 40.499195,
             "lat": -3.694147
